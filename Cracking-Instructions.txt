@@ -1,0 +1,9 @@
+Cracking Instructions:
+
+1. Install program and finish with without launch application.(Do not run application)
+2. Copy "googleearth_free.dll" from "client"folder and paste into client folder of installation direcory.
+3. Copy "googleearth_free.dll" from "plugin"folder and paste into "plugin" folder of installation direcory.
+4. Run "Regme"file and merge it.
+5. Done, Enjoy.
+
+Note: Default installation directory is e.g c:/Program Files/Google/Google Earth/....Here you will find client and plugin folders
